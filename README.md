@@ -1,6 +1,6 @@
 # Projeto criado para treinamento de ReactJS e Tailwind CSS
 
-## Imagens do projeto final
+## Imagens final do projeto 
 
 
 
